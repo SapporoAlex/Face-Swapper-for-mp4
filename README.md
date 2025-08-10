@@ -14,7 +14,7 @@ It runs **on CPU** for compatibility, but this means processing can take a while
 - `run.sh` — shell script to activate the virtual environment and run `f.py`.
 
 ## Other files you need to get
--<a href="https://huggingface.co/ezioruan/inswapper_128.onnx/tree/main"> `inswapper_128.onnx`</a> — face swap model (must be downloaded separately).
+-<a href="https://huggingface.co/ezioruan/inswapper_128.onnx/tree/main" target="_blank"> `inswapper_128.onnx`</a> — face swap model (must be downloaded separately).
 - `source.jpg` — the face you want to use.
 - `input_video.mp4` — the video whose faces you want to replace.
 
@@ -52,7 +52,7 @@ venv\Scripts\activate      # On Windows
 pip install opencv-python numpy insightface onnxruntime
 ```
 
-Download <a href="https://huggingface.co/ezioruan/inswapper_128.onnx/tree/main"> inswapper_128.onnx</a>
+Download <a href="https://huggingface.co/ezioruan/inswapper_128.onnx/tree/main" target="_blank"> inswapper_128.onnx</a>
 Place it in the same directory as f.py.
 
 ### Add your source image and video
