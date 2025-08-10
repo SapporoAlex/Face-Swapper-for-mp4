@@ -3,8 +3,8 @@
 This project swaps a face from a **source image** into every frame of a given **input video** using [InsightFace](https://github.com/deepinsight/insightface).  
 It runs **on CPU** for compatibility, but this means processing can take a while.
 
-<a href="https://youtu.be/aHa2Z-V2PAU" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.youtube.com/vi/aHa2Z-V2PAU/3.jpg" width="800">
+<a href="https://youtu.be/EbnklZCFi34" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.youtube.com/vi/EbnklZCFi34/0.jpg" width="800">
 </a>
 
 
